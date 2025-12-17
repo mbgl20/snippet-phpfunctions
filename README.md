@@ -25,13 +25,17 @@ Here i'll post some functions you could need to have a better coding experience!
 
 ## 🔧 Provided Functions
 
- • `fd()`
+ • `formatDate()` - us and eu version
 
- • `db()`
+ • `timeBetween()` - en and de version
+
+ • `daysBetween()`
 
  • `q()`
 
- • if you are using my `snippet-auth` you can use the `gud()`-function!
+ • if you are using my `snippet-auth` you can use or edit the `gud()`-function!
+
+For more information check the demo, where everyting is explained better!
 
 ---
 
